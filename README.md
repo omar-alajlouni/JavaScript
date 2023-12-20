@@ -1,0 +1,1 @@
+Just basics in Javascript
